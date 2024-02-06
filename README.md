@@ -13,8 +13,8 @@ Decentralized Twitter Clone: A social media platform that runs on a blockchain, 
 ** Reach Out:**
 
 Email: [ethanbarnes0110@icloud.com]
-Twitter: [@33THAN]
-LinkedIn: [ethan-barnes17]
+Twitter: [(https://twitter.com/w3twar3)]
+LinkedIn: [(https://www.linkedin.com/in/ethan-barnes17/)]
 ** I'm open to collaborations, opportunities, and stimulating conversations. Feel free to connect with me!**
 
 ** Let's build the future together! **
